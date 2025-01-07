@@ -1,6 +1,6 @@
 # Homework 0
 **Introduction to Data Science - MATH 4100 / COMP 5360.**  
-*This homework is due by January 12th, 11:59pm*  
+*This homework is due by January 10th, 11:59pm*  
 
 
 Welcome to MATH 4100 and Computing 5360 – Introduction to Data Science. In this class, we will be using a variety of tools that will require some initial configuration. To ensure everything goes smoothly moving forward, we will set up the majority of those tools in this homework. This homework will not be graded, but **it is essential that you complete it before the second lecture** as it sets up the tools that we will be using in class for exercises.
